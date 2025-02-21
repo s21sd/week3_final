@@ -1,4 +1,4 @@
-# 📚 Course Management System (Spring MVC & Spring Boot)
+# 📚 Course Management System (Spring MVC + maven and other one with Spring Boot)
 
 This project is a **Course Management System**, implemented using both **Spring MVC** and **Spring Boot**.  
 It allows faculty members to be assigned courses, and users can fetch courses by faculty name.
