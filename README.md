@@ -14,8 +14,8 @@ It allows faculty members to be assigned courses, and users can fetch courses by
 # Output
 
 
-<img src="https://github.com/s21sd/week3_final/blob/master/final.png" width="1500" height="1000" alt="Image Description">
-<img src="https://github.com/s21sd/week3_final/blob/master/image.png" width="1500" height="1000" alt="Image Description">
+<img src="https://github.com/s21sd/week3_final/blob/master/final.png" width="2500" height="1000" alt="Image Description">
+<img src="https://github.com/s21sd/week3_final/blob/master/image.png" width="2500" height="1000" alt="Image Description">
 
 # 📚 Course Management System (Spring MVC & Spring Boot)
 
